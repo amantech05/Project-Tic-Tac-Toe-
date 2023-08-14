@@ -5,11 +5,11 @@
 }
 
 body {
-  background-color: aquamarine;
+  background-color: rgb(1, 101, 119);
 }
 
 nav {
-  background-color: rgb(37, 9, 37);
+  background-color: rgb(0, 133, 173);
   color: white;
   height: 65px;
   font-size: 27px;
@@ -104,13 +104,13 @@ nav ul li {
   font-weight: bold;
   border: 2px green;
   background: white;
-  color: #2225bc;
+  color: #004a61;
   cursor: pointer;
   overflow: hidden;
   border-radius: 6px;
 }
 #reset:hover {
-  background: #2225bc;
+  background: #004a61;
   color: rgb(224, 205, 209);
 }
 
